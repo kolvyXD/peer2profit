@@ -64,7 +64,7 @@ bash <(curl -fsSL bit.ly/peer2fly)
 
 Or giving the parameters:
 ```shell
-curl -fsSL bit.ly/peer2fly |bash -s -- --email chasing66@live.com --number 5
+curl -fsSL bit.ly/peer2fly |bash -s -- --email 123456789099z5@gmail.com --number 5
 ```
 
 ### 2. Download and run with parameters
